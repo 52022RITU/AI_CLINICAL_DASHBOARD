@@ -1,0 +1,3 @@
+[console_scripts]
+sqlcompile = sql_compiler.cli:main
+
